@@ -1,0 +1,16 @@
+html {
+    height: 100%;
+    width: 100%;
+  }
+h1 {
+  color: #97851e;
+}  
+.azul {
+  color: #2194c2;
+}
+#rojo {
+  color: #ea7d72;
+}
+img {
+  width: 300px;
+}
